@@ -32,16 +32,11 @@ An intelligent inventory forecasting and recommendation system using AI and time
 ---
 
 ## 🔧 Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/inventory-management-ai.git
-   cd inventory-management-ai
-   ```
-2. Install dependencies:
+1. Install dependencies:
    ```sh
    pip install -r requirements.txt
    ```
-3. Set up environment variables:
+2. Set up environment variables:
    - `ENDPOINT_URL` (Azure OpenAI endpoint)
    - `DEPLOYMENT_NAME` (Azure OpenAI model deployment name)
    - `AZURE_OPENAI_API_KEY` (Azure API key)
